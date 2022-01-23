@@ -1,0 +1,4 @@
+pyppeteer
+requests
+pyperclip
+beautifulsoup4
