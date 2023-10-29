@@ -35,8 +35,8 @@ python3 main.py 2> log.txt
 
 ## Output
 
-Word is:  phony
-Guessed in  4  tries
+Word is:  phony  
+Guessed in  4  tries  
 Wordle 862 4/6
 
 ⬜🟨⬜⬜🟩  
